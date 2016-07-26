@@ -6,7 +6,8 @@ body{
 	text-align: center;
 }
 
-#treepic{
-	position:relative;
-	left: 30px;
-}
+#whatismentalillnessvid{
+	position: fixed;
+	left: 700px;
+	bottom: 100px;
+	}
