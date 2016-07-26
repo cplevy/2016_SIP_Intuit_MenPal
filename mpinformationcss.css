@@ -6,8 +6,8 @@ body{
 	text-align: center;
 }
 
-#whatismentalillnessvid{
-	position: fixed;
-	left: 700px;
-	bottom: 100px;
+#mentalillnessdiv{
+	position: relative;
+	left: 600px;
+	bottom: 500px;
 	}
