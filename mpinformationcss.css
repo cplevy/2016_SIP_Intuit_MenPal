@@ -1,0 +1,12 @@
+body{
+	background-color: #d9d9d9;
+}
+
+#information{
+	text-align: center;
+}
+
+#treepic{
+	position:relative;
+	left: 30px;
+}
