@@ -39,19 +39,19 @@ body{
 
 #anxietybutton{
 	position: relative;
-	left: 250px;
-	bottom: 50px;
+	left: 350px;
+	bottom: 10px;
 }
 
 #bipolarbutton{
 	position: relative;
 	bottom: 100px;
-	left: 450px;
+	left: 600px;
 }
 
 
 #stressbutton{
 	position: relative;
 	left: 940px;
-	bottom: 200px;
+	bottom: 190px;
 }
