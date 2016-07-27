@@ -28,6 +28,25 @@
 	margin-bottom: -200px;
 }
 
+#timetochange{
+	position: relative;
+	left: 600px;
+	bottom: 300px;
+}
+
+#bythenumbers{
+	position: relative;
+	left: 600px;
+	bottom: 300px;
+}
+
+#stigmafacts{
+	position: relative;
+	left: 600px;
+	bottom: 300px;
+}
+
+
 .link{
 	color: black;
 }
