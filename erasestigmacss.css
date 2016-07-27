@@ -46,6 +46,15 @@
 	bottom: 300px;
 }
 
+.boxed{
+	border: 1px solid black;
+	background-color: #f2f2f2;
+}
+
+#myths{
+	position: relative;
+	left: 10px;
+}
 
 .link{
 	color: black;
