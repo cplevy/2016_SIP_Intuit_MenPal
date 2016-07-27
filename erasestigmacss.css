@@ -5,3 +5,29 @@
 	width: 1200px;
 	height: 300px;
 }
+
+#averagetime1{
+	position: relative;
+	left: 670px;
+	bottom: 480px;
+}
+
+#averagetime2{
+	position: relative;
+	left: 670px;
+	bottom: 470px;
+	margin-bottom: -100px;
+}
+
+#stigmagraph2{
+	position: relative;
+	left: 700px;
+	bottom: 290px;
+	width: 400px;
+	height: 200px;
+	margin-bottom: -200px;
+}
+
+.link{
+	color: black;
+}
