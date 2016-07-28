@@ -1,14 +1,14 @@
 body{
 	background-color: black;
-	background-image: url("treepattern.png");
-	background-repeat: repeat-x;
-	background-position: 0px 600px;
+	background-image: url("fogimage.jpeg");
+	background-repeat: no-repeat;
 }
 
 .input-group{
 	position: relative;
 	top: 100px;
 	width: 1200px;
+	
 }
 
 #submitbutton{
