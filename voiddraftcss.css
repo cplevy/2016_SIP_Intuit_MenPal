@@ -1,6 +1,6 @@
 body{
 	background-color: black;
-	background-image: url("fogimage.jpeg");
+	background-image: url("fog2.jpg");
 	background-repeat: no-repeat;
 }
 
@@ -8,7 +8,6 @@ body{
 	position: relative;
 	top: 100px;
 	width: 1200px;
-	
 }
 
 #submitbutton{
@@ -25,4 +24,20 @@ body{
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+}
+
+h1{
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+.link{
+	color: white;
 }
