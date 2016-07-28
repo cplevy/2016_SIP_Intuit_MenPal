@@ -1,7 +1,9 @@
+
 body{
-	background-color: black;
-	background-image: url("fog2.jpg");
-	background-repeat: no-repeat;
+	background-color: #b3b3b3;
+	background: url("finalfinalvoidback.jpg") no-repeat center fixed;
+	background-size: cover;
+	
 }
 
 .input-group{
