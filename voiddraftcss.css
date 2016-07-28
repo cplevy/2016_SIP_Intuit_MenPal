@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+	background-image: url("treepattern.png");
+	background-repeat: repeat-x;
+	background-position: 0px 600px;
+}
+
+.input-group{
+	position: relative;
+	top: 100px;
+	width: 1200px;
+}
+
+#submitbutton{
+	position: relative;
+	left: 500px;
+	top: 100px;
+	background-color: transparent;
+    border: 4px solid white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
