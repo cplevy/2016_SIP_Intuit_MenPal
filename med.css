@@ -1,0 +1,87 @@
+#body {
+	background-color: white;
+	background-image: url("http://bi.gazeta.pl/im/0e/0f/10/z16842254Q.jpg");
+	background-repeat: no-repeat;
+	background-position: 650px 163px;
+}
+
+#header2{
+	font-weight: 200px; 
+	font-style: italic;
+	
+/* 
+.newspaper {
+   div {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: ;
+}
+ */
+}
+
+h2{
+	font-weight: 200px;
+	font-style: italic;
+}
+
+.link {
+	color: black;
+}
+
+
+.thumbnail{
+/* 
+	background-color: white;
+ */
+	border:1px solid #d1bd9a;
+	margin:4px 0px 4px 5px;
+	padding:4px;
+}
+
+.meditation2{
+	background-color:  #C1CCEB;
+
+}
+
+
+#meditation{
+	background-color: #C1CCEB;
+}
+
+
+
+.button{
+	background-color: transparent;
+	border: 4px solid white;
+	color: white;
+	padding: 15px 32px; 
+	text-align:center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer; 
+	position: relative; 
+	 position:relative;
+    transition: .5s ease;
+    top: -550px;
+    left: 750 px;
+    right: -735px;
+    bottom: -191px;
+
+.button:hover {
+    background-color: red;
+    color: white;
+}
+
+#googmaps{
+	background-color: #77D3D0;
+}
+
+#submit{
+	font-style: italic;
+}
+
+#feelgood{
+	
+
+}

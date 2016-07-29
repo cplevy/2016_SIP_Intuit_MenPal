@@ -1,0 +1,58 @@
+body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+ p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 {
+      background-color: #f8eff4; 
+      color: #ffffff;
+  }
+.bg-2 {
+      background-color: #474e5d; 
+      color: #ffffff;
+  }
+.bg-3 {
+      background-color: #ffffff; 
+      color: #555555;
+  }
+.bg-4 {
+      background-color: #2f2f2f; \
+      color: #fff;
+  }
+.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+.hotline{
+font-size: 25px;
+color: #bbbcbc;
+}
+.numbers{
+font-size: 20px;
+color: #95b1c9;
+}
+#emergency{
+font-size: 25px;
+color: black;
+}
+#header{
+color: gray;
+font-size: 30px
+}
+#header2{
+font-size: 30px;
+color:#95b1c9;
+}
+#text{
+font-size: 30px;
+color: #f8eff4;
+}
+#lol{
+font-size: 20px;
+color: #f8eff4;
+}
+.link{
+color: black;
+}

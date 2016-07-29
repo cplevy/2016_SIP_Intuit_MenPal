@@ -1,0 +1,72 @@
+.header{
+position: relative;
+text-align: center;
+}
+.align-left{
+position: relative;
+right: 140px;
+}
+#align-left{
+ position: relative;
+ right: 140px;
+}
+
+#side-comment{
+font-size: 25px;
+}
+
+.button {
+    background-color: transparent; 
+    border: solid white;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.btn-min-block {
+    min-width: 170px;
+    line-height: 26px;
+}
+
+.btn-theme {
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-right: 15px;
+}
+
+.btn-theme:hover {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.tips{
+font-size: 15px;
+}   
+.link{
+color: black;
+}
+
+body{
+background-color: white;
+background-image: url("fam.jpg");
+background-repeat: no-repeat;
+background-position: 200px 150px;
+background-size: 1000px 600px;
+}
+
+#position{display: block;
+margin-left: 25%;
+margin-right: 80%;
+width: 50%;
+transform: translate(0, 200px);
+
+}
+
